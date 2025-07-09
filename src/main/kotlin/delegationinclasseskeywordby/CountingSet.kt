@@ -1,6 +1,4 @@
-package org.example.delegationinclasseskeywordbuy
-
-import addingmethodstothirdpartyclasses.c
+package delegationinclasseskeywordby
 
 class CountingSet<T>(
     val innerSet: MutableCollection<T> = HashSet<T>()
